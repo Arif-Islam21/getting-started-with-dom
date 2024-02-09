@@ -11,7 +11,7 @@
       <h1>Welcome to javascript Document Object Model</h1>
     </header>
     <main>
-      <h2>My Awesome DOM De Baba</h2>
+      <h1>My Awesome DOM De Baba</h1>
       <ul>
         <li>Jalali Dom</li>
         <li>Safayat</li>
@@ -21,8 +21,10 @@
 
     <script src="index.js"></script>
     <script>
-      console.log("inside html 5 linked");
-      console.log(document);
+      const liCollection = document.getElementsByTagName("li");
+      for (const collection of liCollection) {
+        console.log(collection.innerText);
+      }
     </script>
   </body>
 </html>

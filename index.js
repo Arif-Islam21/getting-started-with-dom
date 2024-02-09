@@ -1,1 +1,2 @@
-console.log("hello DOM world");
+const lies = document.querySelectorAll(".places-to-go li");
+console.log(lies.innerText);

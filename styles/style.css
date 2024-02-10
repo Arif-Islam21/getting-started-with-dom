@@ -4,3 +4,7 @@ h1 {
 ul {
   color: tomato;
 }
+.text-violet {
+  color: violet;
+  text-align: center;
+}

@@ -5,3 +5,4 @@ document.getElementById ==> can get a specific item from four webpage or documen
 document.quarySellectors ==>
 
 learn about html collection and node list
+LEARN MORE ABOUT NODE AND NODE LIST

@@ -10,3 +10,4 @@ for (const section of sections) {
 
 const placeContainer = document.getElementById("placeContainer");
 placeContainer.classList.add("text-violet");
+// placeContainer.classList.remove("places-to-go");

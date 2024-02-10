@@ -6,3 +6,8 @@ document.quarySellectors ==>
 
 learn about html collection and node list
 LEARN MORE ABOUT NODE AND NODE LIST
+
+//SUMMARY
+embedded inside html file to connect with javascript
+you can connect with external file with script src
+order matters for adding your file

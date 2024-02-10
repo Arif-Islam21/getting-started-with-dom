@@ -8,6 +8,6 @@ for (const section of sections) {
   section.style.backgroundColor = "lightgray";
 }
 
-const placeContainer = document.getElementById("placeContainer");
+const placeContainer = document.getElementById("placeContainer").style.fontSize;
 placeContainer.classList.add("text-violet");
 // placeContainer.classList.remove("places-to-go");
